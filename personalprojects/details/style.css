@@ -1,0 +1,17 @@
+#oneEmployeeDetails{
+	display:none;
+}
+#newEmployee{
+	display:none;
+	margin:50px 50px 50px 50px;
+}
+table th{
+	border: 2px solid black;
+}
+td {
+	text-align: center;
+	padding: 12 px;
+}
+table{
+	background:#AA0000;
+}

@@ -1,0 +1,61 @@
+.header1{
+	background-color: #000044;
+}
+.container .well {
+    background-color:#337ab7;
+    border-color: #2e6da4;
+    color:#fff;
+
+}
+.container .btn-group{
+	margin-right:0;
+}
+form{
+	width:50%;
+	margin-top: 100px;
+}
+#inputFile{
+	margin-left: 115px;
+}
+.help-block{
+	margin-left: 115px;
+ }
+ body{
+ 	background: url("http://gmischool.com/wp-content/uploads/background-contact-form.jpg");
+ }
+ h1{
+ 	font-style:italic;
+ 	text-align: center;
+ }
+.container .form-group button [type="submit"]{
+ 	background-color:#337ab7;
+
+ }
+ .cont1{
+ 	display:none;
+ }
+ 
+ .cont2{
+ 	display:none;
+ }
+ 
+ .container img[src="images/cloud2.png"]{
+ 	margin: auto;
+ }
+ .container .form-horizontal{
+ 	margin:auto;
+ 	margin-top: 60px;
+ }
+ .cont1 form .fg1{
+ 	padding: 31px;
+    background-color: #000;
+    border-radius: 25px;
+    color: #00C4FF;
+ }
+ .cont1 form{
+ 	padding-top: 55px;
+ }
+ .cont1 img{
+ 	padding-top: 113px;
+ }
+ }
